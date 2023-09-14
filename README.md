@@ -1,7 +1,8 @@
 # Selenium-Framework-with-Cucumber
-BDD framework for automation using Selenium Cucumber and Junit
+## BDD framework for automation using Selenium Cucumber and Junit
 
-The framework has following features
+### The framework has following features
+```
 1.Modular Design
 2.Maven based framework
 3.Report Generation (cucumber-reporting), Cucumber Plugin
@@ -12,3 +13,4 @@ The framework has following features
 8.POM , Page Factory
 9.Support multi Browsers
 10.Hooks
+```
